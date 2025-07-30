@@ -17,6 +17,7 @@ A Telegram bot that converts text into DTMF (Dual-Tone Multi-Frequency) audio to
 
 ## 📸 Demo
 
+![](https://raw.githubusercontent.com/jero98772/bluetwo_telegram_bot/refs/heads/main/media/1.jpeg)
 ### Text to DTMF
 
 ```
@@ -25,7 +26,7 @@ Encoded: #44#33#555#555#666#
 ```
 
 <audio controls>
-  <source src="https://github.com/jero98772/bluetwo_telegram_bot/raw/main/media/1.acc" type="audio/wav">
+  <source src="https://raw.githubusercontent.com/jero98772/bluetwo_telegram_bot/refs/heads/main/media/1.acc" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
